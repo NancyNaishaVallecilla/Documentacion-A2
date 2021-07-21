@@ -18,8 +18,13 @@ ORTIZ GONZALES EVELIN MAYENNI: calculado el indice de masa de una persona, tome 
 en cual utilice la sentencia condicional de if en la cual nos indicara si estamos en perfecto estado.
 
 *COMPOSICION:*
+
 PRINCIPAL.CPP:Utilizando la funcion  int main  para crear nuestro menu principal en cual se encuentran opciones de ingreso.
+
 DATOS PERSONALES: Utilizando class llamada personas,implementando la funcion void para ingresar y mostrar la funcion de  los datos personales.
+
 EDA DE LA PERSONA: Utilizando la funcion int main implemetado en nuestra class llamada persona.
+
 IMC:Utilizndo la funcion int implemetado en nuestra class llamada persona tambien usando una sintaxis de if.
+
 TXT:utilizando la funcion void  
