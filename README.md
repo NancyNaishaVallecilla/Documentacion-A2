@@ -61,18 +61,19 @@ TXT: utilizando la función void.
 
 :diamond_shape_with_a_dot_inside:*EJECUCIÓN*
 
+Clic en compilar: ahí procederá a ejecutar nuestro programa 
 ![1 paso](https://user-images.githubusercontent.com/85953971/126839512-109369bc-5f31-467a-b45c-e290bed21017.png)
 
-Clic en compilar: ahí procederá a ejecutar nuestro programa 
+Aparecera una ventana mostrando nuestro menu principal de opciones.ya sea cualquier opcion que elijas te mostrara un submenu 
 ![2 paso](https://user-images.githubusercontent.com/85953971/126839638-448a45fb-936f-4cdb-8712-55d253ac56fe.png)
 
-Aparecera una ventana mostrando nuestro menu principal de opciones.ya sea cualquier opcion que elijas te mostrara un submenu 
+En nuestra primera opcion esta lo que es los datos personales que puede ingresar el usuario 
 ![3 paso](https://user-images.githubusercontent.com/85953971/126839691-9f1a754e-d368-4b66-b78f-a7536f5db32a.png)
 
-En nuestra primera opcion esta lo que es los datos personales que puede ingresar el usuario.
+Seguido nos mostrara en la opción 2 el proceso para calcular la edad del usuario 
 ![4 paso](https://user-images.githubusercontent.com/85953971/126839815-17460dab-c6c8-4e9a-96e5-464f83ec46d2.png)
-seguido nos mostrara en la opcion 2 el proceso para calcular la edad del usuario 
 
+En la opción 3 se encuentra lo que es el índice de masa corporal que el usuario procederá a ingresar su estatura y peso así le mostrará si se encuentra normal en su IMC
 ![5 paso](https://user-images.githubusercontent.com/85953971/126839880-637ade48-6c4c-4844-8e9c-05471a9eafe1.png)
 
-En la opción 3 se encuentra  lo que es el índice de masa corporal que el usuario procederá a ingresar su estatura y peso así le mostrara si se encuentra normal en su imc 
+
