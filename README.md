@@ -2,11 +2,11 @@
 //A2: PROYECTO FINAL : Documentación de la actividad C2-2
 
 INTEGRANTES:
-NANCY VALLECILLA BOLAÑOS
-ORTIZ GONZALEZ EVELIN 
-JAMA RAMIREZ PATRICIA 
+:white_large_square: NANCY VALLECILLA BOLAÑOS
+:white_large_square: EVELIN ORTZ GONZALEZ
+:white_large_square: PATRICIA JAMA RAMIREZ
 
-*PARTICIPANTES*:white_large_square:
+:diamond_shape_with_a_dot_inside:*PARTICIPANTES*
 NANCY VALLECILLA:programe el ingreso y muestra para que el usuario 
 pueda  igresar sus datos personales y guardarlos en el menu.
 
@@ -17,7 +17,7 @@ Se procede a calcular la edad, ingresando  su fecha actual y su respectiva fecha
 ORTIZ GONZALES EVELIN MAYENNI: calculado el indice de masa de una persona, tome como datos de entrada la altura y el peso en kg
 en cual utilice la sentencia condicional de if en la cual nos indicara si estamos en perfecto estado.
 
-*COMPOSICION:*
+:diamond_shape_with_a_dot_inside:*COMPOSICIÓN*
 
 PRINCIPAL.CPP:Utilizando la funcion  int main  para crear nuestro menu principal en cual se encuentran opciones de ingreso.
 
@@ -29,7 +29,7 @@ IMC:Utilizndo la funcion int implemetado en nuestra class llamada persona tambie
 
 TXT:utilizando la funcion void  
 
-*DESCRIPCION¨* 
+:diamond_shape_with_a_dot_inside:*DESCRIPCIÓN*
 
 En nuestro menú principal tenemos la función (int main) la función main sirve como punto de partida para la ejecución del programa. Normalmente, controla la ejecución del programa dirigiendo las llamadas a otras funciones del programa y usamos int para declarar el tipo, o incluso también se puede obviar, porque el compilador le asignará este tipo por defecto. Usando también nuestra sintaxis de (do-while) Y por último termina en una sentencia llamada return que es que da por terminada nuestra función.
 
