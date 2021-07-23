@@ -6,7 +6,7 @@ NANCY VALLECILLA BOLAÑOS
 ORTIZ GONZALEZ EVELIN 
 JAMA RAMIREZ PATRICIA 
 
-*PARTICIPANTES*
+*PARTICIPANTES*:white_large_square:
 NANCY VALLECILLA:programe el ingreso y muestra para que el usuario 
 pueda  igresar sus datos personales y guardarlos en el menu.
 
