@@ -7,6 +7,7 @@ INTEGRANTES:
 :white_large_square: PATRICIA JAMA RAMIREZ
 
 :diamond_shape_with_a_dot_inside:*PARTICIPANTES*
+
 NANCY VALLECILLA:programe el ingreso y muestra para que el usuario 
 pueda  igresar sus datos personales y guardarlos en el menu.
 
