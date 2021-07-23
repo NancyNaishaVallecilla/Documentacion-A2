@@ -42,7 +42,7 @@ IMC: Utilizando la función (int) implementado en nuestra class llamada persona 
 
 TXT: utilizando la función void.
 
-:diamond_shape_with_a_dot_inside:* INSTALACION*
+💠*INSTALACION*
 1. Versión: 5.11 Nuestro entorno para programar en C++ 
 2. Una vez que ejecute el instalador, verá las siguientes pantallas: Seleccione el idioma de la instalación
 3. Aceptar la licencia
