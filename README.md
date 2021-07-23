@@ -41,3 +41,19 @@ Edad de la persona. Utilizando la función (int main) implementado en nuestra cl
 IMC: Utilizando la función (int) implementado en nuestra class llamada persona también usando una sintaxis de (if.)
 
 TXT: utilizando la función void.
+INSTALACIÓN 
+1. Versión: 5.11 Nuestro entorno para programar en C++
+2. Una vez que ejecute el instalador, verá las siguientes pantallas: Seleccione el idioma de la instalación
+3. Aceptar la licencia
+4. Seleccionar los componentes a instalar, vienen por defecto
+5. Configurar la carpeta destino:
+6. Al hacer clic en siguiente, arranca el proceso de instalación:
+7. Elegir si Dev C++ estará disponible para todos los usuarios del PC
+8. La instalación termina, con la casilla Ejecutar seleccionada, clic en Terminar
+9. El programa inicia por 1ra vez
+10. Se configura el idioma del programa, seleccionar Spanish (Latinoamérica)
+11. En estos dos pasos, hacer clic en Next
+12. Luego, habrá una segunda y última carga de archivos
+13. La instalación ha finalizado
+14. Esto es lo 1ro que verás… activa o desactiva las sugerencias, clic en Cerrar
+15. Clic en Archivo Fuente y listo, ¡A Programar en C++
