@@ -41,8 +41,9 @@ Edad de la persona. Utilizando la función (int main) implementado en nuestra cl
 IMC: Utilizando la función (int) implementado en nuestra class llamada persona también usando una sintaxis de (if.)
 
 TXT: utilizando la función void.
-INSTALACIÓN 
-1. Versión: 5.11 Nuestro entorno para programar en C++
+
+:diamond_shape_with_a_dot_inside:* INSTALACION*
+1. Versión: 5.11 Nuestro entorno para programar en C++ 
 2. Una vez que ejecute el instalador, verá las siguientes pantallas: Seleccione el idioma de la instalación
 3. Aceptar la licencia
 4. Seleccionar los componentes a instalar, vienen por defecto
@@ -57,3 +58,21 @@ INSTALACIÓN
 13. La instalación ha finalizado
 14. Esto es lo 1ro que verás… activa o desactiva las sugerencias, clic en Cerrar
 15. Clic en Archivo Fuente y listo, ¡A Programar en C++
+
+:diamond_shape_with_a_dot_inside:*EJECUCIÓN*
+
+![1 paso](https://user-images.githubusercontent.com/85953971/126839512-109369bc-5f31-467a-b45c-e290bed21017.png)
+
+Clic en compilar: ahí procederá a ejecutar nuestro programa 
+![2 paso](https://user-images.githubusercontent.com/85953971/126839638-448a45fb-936f-4cdb-8712-55d253ac56fe.png)
+
+Aparecera una ventana mostrando nuestro menu principal de opciones.ya sea cualquier opcion que elijas te mostrara un submenu 
+![3 paso](https://user-images.githubusercontent.com/85953971/126839691-9f1a754e-d368-4b66-b78f-a7536f5db32a.png)
+
+En nuestra primera opcion esta lo que es los datos personales que puede ingresar el usuario.
+![4 paso](https://user-images.githubusercontent.com/85953971/126839815-17460dab-c6c8-4e9a-96e5-464f83ec46d2.png)
+seguido nos mostrara en la opcion 2 el proceso para calcular la edad del usuario 
+
+![5 paso](https://user-images.githubusercontent.com/85953971/126839880-637ade48-6c4c-4844-8e9c-05471a9eafe1.png)
+
+En la opción 3 se encuentra  lo que es el índice de masa corporal que el usuario procederá a ingresar su estatura y peso así le mostrara si se encuentra normal en su imc 
