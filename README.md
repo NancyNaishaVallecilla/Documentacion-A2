@@ -1,7 +1,8 @@
 # Documentacion-A2
-:receipt: ***A2: PROYECTO FINAL : Documentación de la actividad C2-2
+:receipt: *A2: PROYECTO FINAL : Documentación de la actividad C2-2*
 
 :bulb: *INTEGRANTES*
+
 :white_large_square: NANCY VALLECILLA BOLAÑOS
 :white_large_square: EVELIN ORTZ GONZALEZ
 :white_large_square: PATRICIA JAMA RAMIREZ
